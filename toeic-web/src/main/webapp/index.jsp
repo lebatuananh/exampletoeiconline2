@@ -1,9 +1,2 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-<head>
-    <title>ToeicOnline</title>
-</head>
-<body>
-<h1>Hello</h1>
-</body>
-</html>
+<%@ include file="/common/taglib.jsp"%>
+<c:redirect url="/admin-home.html"/>
