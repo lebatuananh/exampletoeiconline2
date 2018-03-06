@@ -1,4 +1,4 @@
 package vn.mra.core.service;
 
-public interface TestService {
+public interface UserService {
 }
